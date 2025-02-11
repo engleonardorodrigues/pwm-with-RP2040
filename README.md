@@ -22,8 +22,13 @@ O esquema de montagem, simulado na plataforma **Wokwi**, é ilustrado a seguir. 
 - **1x LED RGB (ou LED simples)** opcional na GPIO 12 para análise de comportamento  
 
 <p align="center">
-  <img src="esquema.gif" alt="Esquema de Simulação no Wokwi" width="701">
+  <img src="esquema." alt="Esquema de Simulação no Wokwi" width="701">
 </p>
+
+<video width="320" height="240" controls>
+  <source src="esquema.mp4" type="video/mp4">
+  Seu navegador não suporta a reprodução de vídeo.
+</video>
 
 **Legenda:**
 - GPIO 22 -> Sinal PWM do servo  
