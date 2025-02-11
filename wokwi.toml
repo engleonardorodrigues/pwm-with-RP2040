@@ -1,4 +1,4 @@
 [wokwi]
 version = 1
-firmware = 'build/project_display_SSD1306.uf2'
-elf = 'build/project_display_SSD1306.elf'
+firmware = 'build/pwm-with-RP2040.uf2'
+elf = 'build/pwm-with-RP2040.elf'
